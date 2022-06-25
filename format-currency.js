@@ -16,6 +16,6 @@ const moneyJPY = new Intl.NumberFormat('ja-JP', {
   minimumFractionDigits: 3,
 }).format(money);
 
-console.log(moneyBRL); //R$ 1.234.567,89
-console.log(moneyEUR); //1.234.567,89 €
-console.log(moneyJPY); //￥1,234,567.890
+console.log(moneyBRL); // R$ 1.234.567,89
+console.log(moneyEUR); // 1.234.567,89 €
+console.log(moneyJPY); // ￥1,234,567.890

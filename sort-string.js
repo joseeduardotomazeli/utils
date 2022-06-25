@@ -16,14 +16,16 @@ const sortPersons = persons.sort((person1, person2) => {
 
 console.log(sortPersons);
 
-//[
-// { name: 'Ana' },
-// { name: 'André' },
-// { name: 'Diego' },
-// { name: 'Jose' },
-// { name: 'José' },
-// { name: 'Larissa' },
-// { name: 'Maria' },
-// { name: 'Mariana' },
-// { name: 'Wallace' }
-//]
+/*
+  [
+    { name: 'Ana' },
+    { name: 'André' },
+    { name: 'Diego' },
+    { name: 'Jose' },
+    { name: 'José' },
+    { name: 'Larissa' },
+    { name: 'Maria' },
+    { name: 'Mariana' },
+    { name: 'Wallace' },
+  ]
+*/
